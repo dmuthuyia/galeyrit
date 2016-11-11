@@ -1,0 +1,19 @@
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/galayeri/.ssh/id_rsa.
+Your public key has been saved in /home/galayeri/.ssh/id_rsa.pub.
+The key fingerprint is:
+e8:25:d8:8d:f7:02:6d:19:9e:02:12:54:e2:d6:36:74 
+The key's randomart image is:
++--[ RSA 2048]----+
+| .+.o E          |
+| . = .           |
+|  + =   .        |
+| . o = * +       |
+|    . B S        |
+|     . B .       |
+|      . . .      |
+|         .       |
+|                 |
++-----------------+
